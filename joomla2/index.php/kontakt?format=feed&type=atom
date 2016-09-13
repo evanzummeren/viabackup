@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="en-gb">
+	<title type="text">Contact</title>
+	<subtitle type="text"></subtitle>
+	<link rel="alternate" type="text/html" href="http://www.via.dds.nl"/>
+	<id>http://www.via.dds.nl/joomla2/index.php/kontakt</id>
+	<updated>2016-09-13T14:29:56+00:00</updated>
+	<generator uri="http://joomla.org" version="2.5">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="http://www.via.dds.nl/joomla2/index.php/kontakt?format=feed&amp;type=atom"/>
+	<entry>
+		<title>Stichting VIA</title>
+		<link rel="alternate" type="text/html" href="http://www.via.dds.nl/joomla2/index.php/kontakt/1-stichting-via"/>
+		<published>2001-12-02T23:41:00+00:00</published>
+		<updated>2001-12-02T23:41:00+00:00</updated>
+		<id>http://www.via.dds.nl/joomla2/index.php/kontakt/1-stichting-via</id>
+		<summary type="html">M. v. Bouwdijk Bastiaansestraat 32</summary>
+		<content type="html">M. v. Bouwdijk Bastiaansestraat 32</content>
+		<category term="Kantoor" />
+	</entry>
+	<entry>
+		<title>Mocana</title>
+		<link rel="alternate" type="text/html" href="http://www.via.dds.nl/joomla2/index.php/kontakt/2-midden-oostencentraal-africa-noord-afrika"/>
+		<published>2001-12-02T23:41:00+00:00</published>
+		<updated>2001-12-02T23:41:00+00:00</updated>
+		<id>http://www.via.dds.nl/joomla2/index.php/kontakt/2-midden-oostencentraal-africa-noord-afrika</id>
+		<summary type="html">MvB</summary>
+		<content type="html">MvB</content>
+		<category term="Kantoor" />
+	</entry>
+	<entry>
+		<title>LTV</title>
+		<link rel="alternate" type="text/html" href="http://www.via.dds.nl/joomla2/index.php/kontakt/3-long-term-volunteer"/>
+		<published>2001-12-02T23:41:00+00:00</published>
+		<updated>2001-12-02T23:41:00+00:00</updated>
+		<id>http://www.via.dds.nl/joomla2/index.php/kontakt/3-long-term-volunteer</id>
+		<category term="Kantoor" />
+	</entry>
+	<entry>
+		<title>Beheerder</title>
+		<link rel="alternate" type="text/html" href="http://www.via.dds.nl/joomla2/index.php/kontakt/5-ctrlhome"/>
+		<published>2001-12-02T23:41:00+00:00</published>
+		<updated>2001-12-02T23:41:00+00:00</updated>
+		<id>http://www.via.dds.nl/joomla2/index.php/kontakt/5-ctrlhome</id>
+		<category term="Kantoor" />
+	</entry>
+	<entry>
+		<title>Nieuwsbrief</title>
+		<link rel="alternate" type="text/html" href="http://www.via.dds.nl/joomla2/index.php/kontakt/7-nieuwsbrief"/>
+		<published>2001-12-02T23:41:00+00:00</published>
+		<updated>2001-12-02T23:41:00+00:00</updated>
+		<id>http://www.via.dds.nl/joomla2/index.php/kontakt/7-nieuwsbrief</id>
+		<category term="Kantoor" />
+	</entry>
+	<entry>
+		<title>Spoed</title>
+		<link rel="alternate" type="text/html" href="http://www.via.dds.nl/joomla2/index.php/kontakt/9-spoed"/>
+		<published>2001-12-02T23:41:00+00:00</published>
+		<updated>2001-12-02T23:41:00+00:00</updated>
+		<id>http://www.via.dds.nl/joomla2/index.php/kontakt/9-spoed</id>
+		<category term="Kantoor" />
+	</entry>
+	<entry>
+		<title>Projects in Netherlands</title>
+		<link rel="alternate" type="text/html" href="http://www.via.dds.nl/joomla2/index.php/kontakt/10-projects-in-netherlands"/>
+		<published>2014-03-01T09:25:16+00:00</published>
+		<updated>2014-03-01T09:25:16+00:00</updated>
+		<id>http://www.via.dds.nl/joomla2/index.php/kontakt/10-projects-in-netherlands</id>
+		<author>
+			<name>Rigas</name>
+			<email>Rigasp@gmail.com</email>
+		</author>
+		<category term="Kantoor" />
+	</entry>
+	<entry>
+		<title>Projects/work-camps </title>
+		<link rel="alternate" type="text/html" href="http://www.via.dds.nl/joomla2/index.php/kontakt/11-projects-work-camps"/>
+		<published>2014-03-01T09:22:02+00:00</published>
+		<updated>2014-03-01T09:22:02+00:00</updated>
+		<id>http://www.via.dds.nl/joomla2/index.php/kontakt/11-projects-work-camps</id>
+		<author>
+			<name>Rigas</name>
+			<email>Rigasp@gmail.com</email>
+		</author>
+		<category term="Kantoor" />
+	</entry>
+</feed>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Contacten</title>
+		<description><![CDATA[]]></description>
+		<link>http://www.via.dds.nl/joomla2/index.php/kontakt</link>
+		<lastBuildDate>Tue, 13 Sep 2016 14:30:25 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="http://www.via.dds.nl/joomla2/index.php/contacten?format=feed&amp;type=rss"/>
+		<language>en-gb</language>
+		<item>
+			<title>Stichting VIA</title>
+			<link>http://www.via.dds.nl/joomla2/index.php/kontakt/1-stichting-via</link>
+			<guid isPermaLink="true">http://www.via.dds.nl/joomla2/index.php/kontakt/1-stichting-via</guid>
+			<description><![CDATA[M. v. Bouwdijk Bastiaansestraat 32]]></description>
+			<category>Kantoor</category>
+			<pubDate>Sun, 02 Dec 2001 23:41:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Mocana</title>
+			<link>http://www.via.dds.nl/joomla2/index.php/kontakt/2-midden-oostencentraal-africa-noord-afrika</link>
+			<guid isPermaLink="true">http://www.via.dds.nl/joomla2/index.php/kontakt/2-midden-oostencentraal-africa-noord-afrika</guid>
+			<description><![CDATA[MvB]]></description>
+			<category>Kantoor</category>
+			<pubDate>Sun, 02 Dec 2001 23:41:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>LTV</title>
+			<link>http://www.via.dds.nl/joomla2/index.php/kontakt/3-long-term-volunteer</link>
+			<guid isPermaLink="true">http://www.via.dds.nl/joomla2/index.php/kontakt/3-long-term-volunteer</guid>
+			<description><![CDATA[]]></description>
+			<category>Kantoor</category>
+			<pubDate>Sun, 02 Dec 2001 23:41:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Beheerder</title>
+			<link>http://www.via.dds.nl/joomla2/index.php/kontakt/5-ctrlhome</link>
+			<guid isPermaLink="true">http://www.via.dds.nl/joomla2/index.php/kontakt/5-ctrlhome</guid>
+			<description><![CDATA[]]></description>
+			<category>Kantoor</category>
+			<pubDate>Sun, 02 Dec 2001 23:41:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Nieuwsbrief</title>
+			<link>http://www.via.dds.nl/joomla2/index.php/kontakt/7-nieuwsbrief</link>
+			<guid isPermaLink="true">http://www.via.dds.nl/joomla2/index.php/kontakt/7-nieuwsbrief</guid>
+			<description><![CDATA[]]></description>
+			<category>Kantoor</category>
+			<pubDate>Sun, 02 Dec 2001 23:41:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Spoed</title>
+			<link>http://www.via.dds.nl/joomla2/index.php/kontakt/9-spoed</link>
+			<guid isPermaLink="true">http://www.via.dds.nl/joomla2/index.php/kontakt/9-spoed</guid>
+			<description><![CDATA[]]></description>
+			<category>Kantoor</category>
+			<pubDate>Sun, 02 Dec 2001 23:41:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Projects in Netherlands</title>
+			<link>http://www.via.dds.nl/joomla2/index.php/kontakt/10-projects-in-netherlands</link>
+			<guid isPermaLink="true">http://www.via.dds.nl/joomla2/index.php/kontakt/10-projects-in-netherlands</guid>
+			<description><![CDATA[]]></description>
+			<author>Rigasp@gmail.com (Rigas)</author>
+			<category>Kantoor</category>
+			<pubDate>Sat, 01 Mar 2014 09:25:16 +0000</pubDate>
+		</item>
+		<item>
+			<title>Projects/work-camps </title>
+			<link>http://www.via.dds.nl/joomla2/index.php/kontakt/11-projects-work-camps</link>
+			<guid isPermaLink="true">http://www.via.dds.nl/joomla2/index.php/kontakt/11-projects-work-camps</guid>
+			<description><![CDATA[]]></description>
+			<author>Rigasp@gmail.com (Rigas)</author>
+			<category>Kantoor</category>
+			<pubDate>Sat, 01 Mar 2014 09:22:02 +0000</pubDate>
+		</item>
+	</channel>
+</rss>
